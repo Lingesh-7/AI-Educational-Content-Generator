@@ -1,0 +1,6 @@
+langchain
+langchain-community
+langchain-core
+langchain-groq
+streamlit
+langchain-ollama
