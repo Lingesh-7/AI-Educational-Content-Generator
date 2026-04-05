@@ -3,7 +3,9 @@ import re
 # from langchain_community.llms import Ollama
 import os
 from langchain_groq import ChatGroq
+from dotenv import load_dotenv
 
+load_dotenv()
 os.environ["GROQ_API_KEY"]=os.getenv("GROQ_API_KEY")
 
 

@@ -4,3 +4,4 @@ langchain-core
 langchain-groq
 streamlit
 langchain-ollama
+python-dotenv
